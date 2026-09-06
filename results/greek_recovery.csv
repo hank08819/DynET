@@ -1,0 +1,13 @@
+recovery_median,1.025224867415623
+recovery_p1,0.506081434439789
+recovery_p25,1.002170331687623
+recovery_p75,1.099112687197397
+recovery_p99,20.541606581748315
+recovery_within_1pct,0.21636004371929612
+recovery_within_10pct,0.7036938628225864
+recovery_spearman,0.9346530612382045
+gamma_decimals,5.0
+gamma_median,0.00372
+neg_vega,1752.0
+neg_gamma,14664.0
+min_vega,-2002.2516

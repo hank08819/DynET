@@ -1,0 +1,13 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+# optional, only for the comparators in experiments/
+xgboost>=2.0
+lightgbm>=4.0
+catboost>=1.2
+numba>=0.58        # Block Forests reference implementation
+torch>=2.0         # TabNet, TabPFN, the transformer baselines
+tabpfn>=2.0
+pytorch-tabnet>=4.1

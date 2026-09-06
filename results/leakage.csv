@@ -1,0 +1,97 @@
+fold,group,r2
+2017Q1,"Greeks alone (delta,gamma,vega,theta)",0.8864364690372076
+2017Q1,vega alone,0.010733819507760978
+2017Q1,"quote alone (mid,spread)",0.32601033588601247
+2017Q1,"contract alone (m,logm,tte,K,S,call)",0.9123579650300593
+2017Q1,"contract + quote, no Greeks",0.9268407182305143
+2017Q1,all twelve (the manuscript),0.9721660150688008
+2017Q2,"Greeks alone (delta,gamma,vega,theta)",0.8935441669345574
+2017Q2,vega alone,0.07645546871271547
+2017Q2,"quote alone (mid,spread)",0.37525708458530493
+2017Q2,"contract alone (m,logm,tte,K,S,call)",0.9300314197306586
+2017Q2,"contract + quote, no Greeks",0.9250747979268851
+2017Q2,all twelve (the manuscript),0.9729037136261662
+2017Q3,"Greeks alone (delta,gamma,vega,theta)",0.881733744065582
+2017Q3,vega alone,0.11383469109833066
+2017Q3,"quote alone (mid,spread)",0.4180168879803602
+2017Q3,"contract alone (m,logm,tte,K,S,call)",0.9522126122822833
+2017Q3,"contract + quote, no Greeks",0.9539209884394612
+2017Q3,all twelve (the manuscript),0.9911232924477318
+2017Q4,"Greeks alone (delta,gamma,vega,theta)",0.9069799591584018
+2017Q4,vega alone,0.11250365763645909
+2017Q4,"quote alone (mid,spread)",0.3585072334263265
+2017Q4,"contract alone (m,logm,tte,K,S,call)",0.9240848142254452
+2017Q4,"contract + quote, no Greeks",0.9190229216194482
+2017Q4,all twelve (the manuscript),0.9845773986485284
+2018Q1,"Greeks alone (delta,gamma,vega,theta)",0.9190146100472533
+2018Q1,vega alone,0.17040728762541746
+2018Q1,"quote alone (mid,spread)",0.3226283760862173
+2018Q1,"contract alone (m,logm,tte,K,S,call)",0.9456586575031216
+2018Q1,"contract + quote, no Greeks",0.9461539610782855
+2018Q1,all twelve (the manuscript),0.9907060987953469
+2018Q2,"Greeks alone (delta,gamma,vega,theta)",0.9196121476769512
+2018Q2,vega alone,0.14731859928904145
+2018Q2,"quote alone (mid,spread)",0.40987245980920584
+2018Q2,"contract alone (m,logm,tte,K,S,call)",0.9558149708271746
+2018Q2,"contract + quote, no Greeks",0.9575791469686397
+2018Q2,all twelve (the manuscript),0.9937941849316106
+2018Q3,"Greeks alone (delta,gamma,vega,theta)",0.9075346240804294
+2018Q3,vega alone,0.10978440934180722
+2018Q3,"quote alone (mid,spread)",0.4121962976776179
+2018Q3,"contract alone (m,logm,tte,K,S,call)",0.9342187387297636
+2018Q3,"contract + quote, no Greeks",0.9375705042600122
+2018Q3,all twelve (the manuscript),0.9904321849298913
+2018Q4,"Greeks alone (delta,gamma,vega,theta)",0.9002622501953966
+2018Q4,vega alone,-0.021919393179839375
+2018Q4,"quote alone (mid,spread)",0.32496937470194986
+2018Q4,"contract alone (m,logm,tte,K,S,call)",0.9029760485603151
+2018Q4,"contract + quote, no Greeks",0.9145224543590649
+2018Q4,all twelve (the manuscript),0.9839060975774921
+2019Q1,"Greeks alone (delta,gamma,vega,theta)",0.8861184494989268
+2019Q1,vega alone,-0.31190220929718615
+2019Q1,"quote alone (mid,spread)",0.2825051020808721
+2019Q1,"contract alone (m,logm,tte,K,S,call)",0.917974880040704
+2019Q1,"contract + quote, no Greeks",0.9285565764085315
+2019Q1,all twelve (the manuscript),0.9821503647533002
+2019Q2,"Greeks alone (delta,gamma,vega,theta)",0.8576771982789049
+2019Q2,vega alone,-0.7143887626163958
+2019Q2,"quote alone (mid,spread)",0.257312662133492
+2019Q2,"contract alone (m,logm,tte,K,S,call)",0.9241434610460615
+2019Q2,"contract + quote, no Greeks",0.9347110522042394
+2019Q2,all twelve (the manuscript),0.9878164518612893
+2019Q3,"Greeks alone (delta,gamma,vega,theta)",0.8804711661630904
+2019Q3,vega alone,-0.9672665547250905
+2019Q3,"quote alone (mid,spread)",0.16851640445299587
+2019Q3,"contract alone (m,logm,tte,K,S,call)",0.9204585928650941
+2019Q3,"contract + quote, no Greeks",0.9350401556886295
+2019Q3,all twelve (the manuscript),0.9883279067763379
+2019Q4,"Greeks alone (delta,gamma,vega,theta)",0.7977736917487883
+2019Q4,vega alone,-0.21232325028537136
+2019Q4,"quote alone (mid,spread)",-0.1490672652858842
+2019Q4,"contract alone (m,logm,tte,K,S,call)",0.8915399693743732
+2019Q4,"contract + quote, no Greeks",0.8765322944470914
+2019Q4,all twelve (the manuscript),0.966003240395615
+2020Q1,"Greeks alone (delta,gamma,vega,theta)",0.8220347434091865
+2020Q1,vega alone,-0.24582835366808986
+2020Q1,"quote alone (mid,spread)",-0.40633966946417366
+2020Q1,"contract alone (m,logm,tte,K,S,call)",0.7174221800025888
+2020Q1,"contract + quote, no Greeks",0.7318041053346201
+2020Q1,all twelve (the manuscript),0.8566616506124791
+2020Q2,"Greeks alone (delta,gamma,vega,theta)",0.8783591897537051
+2020Q2,vega alone,-0.14749836267952232
+2020Q2,"quote alone (mid,spread)",0.04230496788693838
+2020Q2,"contract alone (m,logm,tte,K,S,call)",0.8590224235755695
+2020Q2,"contract + quote, no Greeks",0.890737955804529
+2020Q2,all twelve (the manuscript),0.9667968551307268
+2020Q3,"Greeks alone (delta,gamma,vega,theta)",0.5475729302899937
+2020Q3,vega alone,-0.19664212792702807
+2020Q3,"quote alone (mid,spread)",-0.004264957163396366
+2020Q3,"contract alone (m,logm,tte,K,S,call)",0.7990524173701747
+2020Q3,"contract + quote, no Greeks",0.8163821282894621
+2020Q3,all twelve (the manuscript),0.9014632822842804
+2020Q4,"Greeks alone (delta,gamma,vega,theta)",0.7979722802771283
+2020Q4,vega alone,-0.29617902117625916
+2020Q4,"quote alone (mid,spread)",0.215353022156771
+2020Q4,"contract alone (m,logm,tte,K,S,call)",0.7742565398415575
+2020Q4,"contract + quote, no Greeks",0.7815034056613198
+2020Q4,all twelve (the manuscript),0.9340600121122633
