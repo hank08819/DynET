@@ -1,4 +1,4 @@
-# Dynamic Extra Trees
+# Greek-Leakage-Isolated Implied Volatility Learning (Dynamic Extra Trees Pricing)
 
 A forest fixes how many features a split may consider, and every convention for
 that number counts columns. On an option panel the columns arrive in correlated
