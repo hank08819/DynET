@@ -1,7 +1,11 @@
 # The panel the experiments expect
 
-The experiment scripts read one CSV per underlying, in the layout an
-end-of-day option quote file is normally exported in. The columns actually used
+**The panels used in the paper are OptionMetrics data and are not redistributable.**
+They are not in this repository. What follows is the schema the scripts read, so
+that a licensed export can be dropped in.
+
+The experiment scripts read one CSV per underlying, in the layout an end-of-day
+option quote file is normally exported in. The columns actually used
 are listed below; anything else in the file is ignored.
 
 | column | meaning |
